@@ -46,5 +46,3 @@ Style/HashTransformValues:
   Enabled: false
 Style/MixinUsage:
   Enabled: false
-Style/FrozenStringLiteralComment:
-  Enabled: false
